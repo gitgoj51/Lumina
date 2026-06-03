@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "Local-first retail analytics engine featuring financial summaries, active inventory alerts, and Holt-Winters sales forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
